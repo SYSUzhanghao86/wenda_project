@@ -1,0 +1,7 @@
+<toolbox>
+    <tool>
+        <key>date</key>
+        <scope>application</scope>
+        <class>org.apache.freemarker.tools.generic.DateTool</class>
+    </tool>
+</toolbox>
